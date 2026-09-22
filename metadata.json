@@ -1,0 +1,6 @@
+{
+  "name": "Patient Case-Taking Software",
+  "description": "Hospital-grade patient case-taking and pre-consultation system supporting Patient, Junior Doctor, and Main Doctor workflows with bilingual English/Hindi support, OCR report processing, dynamic case-taking, and Ayurvedic Dashvidha Pariksha.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
